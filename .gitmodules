@@ -1,0 +1,9 @@
+[submodule "central-awx"]
+	path = central-awx
+	url = https://github.com/Incrediblestorm/terrawx-tbranch-central-awx
+[submodule "simple-ansible-project"]
+	path = simple-ansible-project
+	url = https://github.com/Incrediblestorm/terrawx-tbranch-simple-ansible-project
+[submodule "second-ansible-project"]
+	path = second-ansible-project
+	url = https://github.com/Incrediblestorm/terrawx-tbranch-second-ansible-project.git
